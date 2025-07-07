@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 def getargs():
 
     parser = argparse.ArgumentParser(
-                    prog='scrapercres',
+                    prog='scrcres',
                     description='LiveRC race results web scraper',
                     epilog='All kind of submissions are welcome. (fededc88@gmail.com')
     
